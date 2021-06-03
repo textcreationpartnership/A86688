@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue and cry after religion and justice. Lost in the year 1641. and hath not been heard of since Charls the first, left the City of London. With the descriptions, marks, causes, symptomes and effects thereof. Also the practices of injustice and irreligion, with the execution thereof, characterized.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86688</idno><idno type="EEBO-CITATION">99865485</idno>
+  <idno type="VID">117729</idno>
+  <idno type="EEBO-PROQUEST">2240937598</idno>
+  
+            <idno type="STC">Wing H3284</idno>
+            <idno type="STC">Thomason E569_17</idno>
+            <idno type="STC">ESTC R206312</idno>
+            <idno type="PROQUEST">99865485</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865485e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E569[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue and cry after religion and justice. Lost in the year 1641. and hath not been heard of since Charls the first, left the City of London. With the descriptions, marks, causes, symptomes and effects thereof. Also the practices of injustice and irreligion, with the execution thereof, characterized.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "August. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Civil rights --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117729:1"/>
+            <pb facs="tcp:117729:1"/>
+            <p>A HUE AND CRY AFTER RELIGION and JUSTICE. Lost in the year 1641. and hath not been heard of since CHARLS the first, left the City of LONDON. With the Descriptions, Marks, Causes, Symptomes and effects thereof. Also the practices of Injustice and Irreligi<g ref="char:EOLhyphen"/>on, with the execution thereof, Cha<g ref="char:EOLhyphen"/>racterized.</p>
+            <p>Printed in the Year 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:117729:2"/>
+            <pb n="1" facs="tcp:117729:2"/>
+            <head>A Hue and Cry after <hi>Religion</hi> and <hi>Justice.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg> Yes, — O yes, — O yes: If a<g ref="char:EOLhyphen"/>ny man or woman can bring us tydings of the greatest losse that ever came to this <hi>King<g ref="char:EOLhyphen"/>dom</hi> and <hi>City,</hi> since <hi>CHARLS</hi> the first left the place; you may know her by these <hi>marks,</hi> her head is fil'd with divine learning; from her eies drop the heavenly dew of sacred Scripture; her tongue is not tipt with fil'd oratory, but truths holy me<g ref="char:EOLhyphen"/>thod; in one hand shee carries <hi>Charity,</hi> in the other <hi>Justice:</hi> In her heart the word of God; her feet fixt upon a Rock; and on each side stands <hi>Faith</hi> and <hi>Hope:</hi> her hand<g ref="char:EOLhyphen"/>maids that attends her, true Doctrine and sincerity: since we lost this inestimable (not to be priz'd) Jewell, is crept in irreligion, she carries these marks about her; her head is fild with Schismaticall inventions and opinions, bringing up <hi>Atheists, Anabaptists, Seperatists, Arrians, Indepen<g ref="char:EOLhyphen"/>dents,</hi> and the Devil and all; that by their damn'd heresies, has begot more sects and schismes (religious I cannot call them) then the blind <hi>Mollossians</hi> had Idols, who for every day in the year had a severall God; and by these swarms of Locusts, the whole land hath been infected, and involv'd in bloud and destruction of Prince and People: from her eies drop the tears of faction and dissimulation: The <hi>Crocadiles</hi> of <hi>Nile,</hi> are no more killing, nor destructive to the body, then their hypocrisies to the soul. The dissem<g ref="char:EOLhyphen"/>bling zelots (like the picture of <hi>Mary Magdalem,</hi> are pou<g ref="char:EOLhyphen"/>ring forth their penitentiall tears in formality; you shall know him by these characters (I mean a holy brother or a Saint of Reformation) he is the disgrace of learning
+<pb n="2" facs="tcp:117729:3"/> when the want of litterature, or the abuse of understan<g ref="char:EOLhyphen"/>ding in the speech or error, which begets Idolatry: he is an enemy to God, in the hurt of the People, and his own woe, in the abuse of the sacred Word of God: He is the shadow of a Candle that gives no light, but that which leads to darknesse: The sheep are unhappy that live in his fold, when they shall either starve or feed on the ground: he breeds this war in the wits of his audience, when his life is contrary to the nature of his instructions: He lives in a Room where he troubles a world, and in the shadow of a Saint is little better then a Devil: he makes Religi<g ref="char:EOLhyphen"/>on of sin, and with a counterfeit humility, covereth im<g ref="char:EOLhyphen"/>comparable pride. In sum, he is the picture of hypocrisie, the spirit of heresie; a scandall to the Church, and cala<g ref="char:EOLhyphen"/>mity to the Common-wealth.</p>
+            <p>Irreligion, are like golden pils, that seem fair to the eie, but are bitter to the tast; shee hath her eloquent glos<g ref="char:EOLhyphen"/>ses to deceive the ignorant, and delude the simple with erroneous doctrine; she thunders out what torments are appointed for pride, malice, vain-glory, Adultery, Mur<g ref="char:EOLhyphen"/>der, Religion, and covetousnesse; when shee her self is the nurse of all these vices; In one hand she holds fast Charity; and though she will take from the poorest, yet the father<g ref="char:EOLhyphen"/>les and widow shall not be reliev'd with a peny; she per<g ref="char:EOLhyphen"/>haps will pray for you; but if her prayers were worth a peny, she scarce would part with them; sometimes a large oration for the poor shee will make to stir up good peo<g ref="char:EOLhyphen"/>ples charity; and what's the cause? that shee may catch the fish, and give the poor the shell: she is not only the <hi>Tyth-taker,</hi> but the <hi>gleaner</hi> of the <hi>harvest;</hi> leaving nothing to feed the hungry, but the stubble of the field, stuffed with the weeds of schisme and Rebellion; these are the tenths of the times, and these are our ages charity.</p>
+            <p>In the other hand shee holds forth large volumes of soul-cheating doctrines, in which is writ such cunning sophistry, such perswasive oratories, deluding principles, and counterfeit characters of seeming honesty, with such ample quotations out of Scriptures, as if her heare and
+<pb n="3" facs="tcp:117729:3"/> tongue were Relatives, when they are as far distant as the North Pole is from the South; these are the State Iuglers of the Church, the black Saints of the times, the <hi>righteous of the Land,</hi> that love peace and truth, and yet have banisht and destroyed both; these are the upright Pilots, that hath split us upon Rocks of desparation: the true guides that lead a stray all that follow them. On each side of her stands dissimulation and deceit; her foot fixt upon the world and worldly things: her attendants are time plea<g ref="char:EOLhyphen"/>sers, or temporizers, such who (more for coyn then con<g ref="char:EOLhyphen"/>science; more for <hi>Revenues,</hi> then <hi>Religion</hi>) <hi>walk in sheeps clothings, but inwardly they are ravening wolves;</hi> these are the Monsters of our times.</p>
+            <p>Truth saies, 'tis better save then kill; falshood saies, 'tis better kill then save: Truth saith, <hi>give unto God the things that belong unto God, and unto Caesar the things that belong unto Caesar:</hi> falshood robs both God and Caesar of their due. Truth saies, <hi>have not an evil thought of thy King, not in thy pri<g ref="char:EOLhyphen"/>vate chamber;</hi> Falshood studies to deprave with calumnious language (him whom God hath set over us, to be obeyed and honoured of all honest men) but to depose and mur<g ref="char:EOLhyphen"/>der, is the doctrine of Devils. Religion warrants us to pray for the King; Irreligion counts it a sin (makes it Treason) to mention him in our prayers, or once to hear his name, and superstition to behold the <hi>Lyon and Ʋnicorn</hi> in any Church-window; or painted cloath.</p>
+            <p>If any one there be can bring tydings thereof (for true Religion is lost) let them bring news to the Cryer (<hi>the man in the Moon</hi>) and they shall be well rewarded for their pains, and have M. <hi>Peters</hi> large revenues that is given him for his false doctrine; unlesse it be that which the Butcher cudgel'd out of him; and M. <hi>Walker</hi> (the supposed <hi>Hebriti<g ref="char:EOLhyphen"/>an</hi>) his large benefice of <hi>Ʋxbridge,</hi> and instead of the pilla<g ref="char:EOLhyphen"/>ry, leave him the Gallowes.</p>
+            <trailer>And so God save King CHARLS the second.</trailer>
+            <gap reason="missing" resp="#oxf" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="poem">
+            <pb n="6" facs="tcp:117729:4"/>
+            <gap reason="illegible: missing" resp="#oxf" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <l>Wonder of Ages how is <hi>Brittains</hi> State,</l>
+            <l>Whose Glory once the World did wonder at;</l>
+            <l>Thus Metamorphised: and of late become,</l>
+            <l>The scorn and scandall of all Christendom.</l>
+            <l>Did ever Land with blessings more abound</l>
+            <l>then this? Oh this do's as it were confound</l>
+            <l>My senses; when I think what once we were;</l>
+            <l>And what in these distracted times now are:</l>
+            <l>Nay, what as yet we may be; can a Land,</l>
+            <l>Against it self divided, safely stand?</l>
+            <l>Such is our sad condition; whilst that we,</l>
+            <l>Thus strangly 'mongst our selves doe disagree:</l>
+            <l>And what is worse, we still pretend the Cause</l>
+            <l>To be <hi>Religion, Liberties</hi> and <hi>Laws;</hi>
+            </l>
+            <l>For which we struggle thus: when as we know,</l>
+            <l>By sad experience, it is nothing so.</l>
+            <l>Then tole the Bell, <hi>Religion</hi> gasping lies;</l>
+            <l>And bid farewell to Lawes and Liberties.</l>
+            <l>Till <hi>CHARLS</hi> the second, our dread Soveraign shall,</l>
+            <l>Return in <hi>Triumph</hi> to content you all.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
